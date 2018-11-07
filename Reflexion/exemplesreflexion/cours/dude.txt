@@ -1,0 +1,6 @@
+Données pour créer une instance de personne
+prénom = Personne [prénom=Dude, nom=Dude, taille=180, poids=80.0, sexe=M]
+nom = Personne [prénom=Dude, nom=Dude, taille=180, poids=80.0, sexe=M]
+taille = Personne [prénom=Dude, nom=Dude, taille=180, poids=80.0, sexe=M]
+poids = Personne [prénom=Dude, nom=Dude, taille=180, poids=80.0, sexe=M]
+sexe = Personne [prénom=Dude, nom=Dude, taille=180, poids=80.0, sexe=M]

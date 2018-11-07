@@ -1,0 +1,7 @@
+chanter
+danser
+travailler
+java
+jouer
+aboutir
+marcher

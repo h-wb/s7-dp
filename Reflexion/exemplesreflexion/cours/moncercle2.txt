@@ -1,0 +1,4 @@
+Données pour construire un cercle
+exemplesreflexion.cours.Cercle
+rayon = 27.8
+centre = monpoint1.txt
