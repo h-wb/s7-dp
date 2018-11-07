@@ -2,8 +2,9 @@ package expression;
 
 public class Variable implements Expression {
 
+
     @Override
-    public double getEvaluation() {
-        return 0;
+    public double getEvaluation(double x) {
+        return x;
     }
 }

@@ -1,10 +1,10 @@
 package expression;
 
-public class OperationBinaire implements Expression {
+public abstract class OperationBinaire implements Expression {
 
-    private Expression gauche;
-    private Expression droite;
-    private String operateur;
+    protected Expression gauche;
+    protected Expression droite;
+    protected String operateur;
 
     public OperationBinaire(Expression gauche, Expression droite){
         this.gauche = gauche;
