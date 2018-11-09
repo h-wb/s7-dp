@@ -22,7 +22,7 @@ public class Constante implements Expression {
 
     @Override
     public double getEvaluation(double x) {
-        return x;
+        return constante;
     }
 
     public String toString() {

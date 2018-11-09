@@ -12,7 +12,7 @@ public abstract class OperationBinaire implements Expression {
     }
 
     public String toString() {
-        return this.gauche.toString() + this.operateur + this.droite.toString();
+        return "("+this.gauche.toString() + this.operateur + this.droite.toString() + ")";
     }
 
 }
